@@ -11,4 +11,4 @@ jobs:
     B:
         steps:
             - echo: echo test
-        requires: [~sd@984:C]
+        requires: [~sd@4:C]
